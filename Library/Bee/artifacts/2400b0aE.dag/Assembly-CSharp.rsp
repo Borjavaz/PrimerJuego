@@ -375,14 +375,10 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/home/dam/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/dam/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/CameraController.cs"
+"Assets/Scripts/ControladorCamara.cs"
+"Assets/Scripts/ControladorJugador.cs"
 "Assets/Scripts/EnemyMovement.cs"
-"Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rotator.cs"
-"Assets/ithappy/Animals_FREE/Scripts/CreatureMover.cs"
-"Assets/ithappy/Animals_FREE/Scripts/MovePlayerInput.cs"
-"Assets/ithappy/Animals_FREE/Scripts/PlayerCamera.cs"
-"Assets/ithappy/Animals_FREE/Scripts/ThirdPersonCamera.cs"
 -langversion:9.0
 /deterministic
 /optimize+
